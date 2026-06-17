@@ -1,6 +1,4 @@
 [index.html](https://github.com/user-attachments/files/28845484/index.html)
-# festival-portal-holidaykck
-only for tts suppliers<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
